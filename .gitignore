@@ -20,3 +20,4 @@ streams/*
 !streams/index
 streamsabr/*
 !streamsabr/index
+stream
